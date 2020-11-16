@@ -3,7 +3,8 @@
 
 This code reads an square image and fits broken powerlaw to the power spectral density of it at 18 directions and then estimates the scale breaks for each individual direction.
 In addition, the code plots the breaks against dominant wind direction.
-To run the code you need some packages:
+
+To run the code you need packages below:
 
 1. powerlaw
 2. PIL
