@@ -19,6 +19,8 @@ To run the code you need some packages:
 
 
 
+
+
 ## References
 
 [1] Alstott, J., Bullmore, E. and Plenz, D.: powerlaw: A Python Package for Analysis of Heavy-Tailed Distributions, edited by F. Rapallo, PLoS ONE, 9(1), e85777, doi:10.1371/journal.pone.0085777, 2014.
