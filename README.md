@@ -17,7 +17,8 @@ To run the code you need some packages:
 7. cv2
 8. seaborn as sns
 9. collections
-10. pandas as pd
+10. pandas
+11. pwlf
 
 
 Reference:
