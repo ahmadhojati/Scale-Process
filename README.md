@@ -4,6 +4,7 @@
 This code reads an square image and fits broken powerlaw to the power spectral density of it at 18 directions and then estimates the scale breaks for each individual direction.
 In addition, the code plots the breaks against dominant wind direction.
 
+## Required Packanges
 To run the code you need packages below:
 
 1. powerlaw
@@ -18,6 +19,8 @@ To run the code you need packages below:
 10. pandas
 11. pwlf
 
+
+## Data Samples
 The name of the main code is "Fractal_features.ipynb".
 I added four .tiff files of Airborne lidar snow depth as image input samples for three sites at Grand Mesa, Colorado.
 The site names are A, F and M and the wind data related to each site provided in .csv files called "A_for_scale_process.csv", "LSOS_for_scale_process.csv" and "M_for_scale_process.csv" respectively.
