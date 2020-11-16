@@ -1,8 +1,5 @@
 # Scale-Process
-The script is written according to the Trujillo et al., 2007 work on fractal features and scale process.
-You can find the paper from the address below:
-https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2006WR005317
-
+## The script is written according to the [9] work on fractal features and scale process.
 
 This code reads an square image and fits broken powerlaw to the power spectral density of it at 18 directions and then estimates the scale breaks for each individual direction.
 In addition, the code plots the breaks against dominant wind direction.
@@ -22,7 +19,7 @@ To run the code you need some packages:
 
 
 
-# References
+## References
 
 [1] Alstott, J., Bullmore, E. and Plenz, D.: powerlaw: A Python Package for Analysis of Heavy-Tailed Distributions, edited by F. Rapallo, PLoS ONE, 9(1), e85777, doi:10.1371/journal.pone.0085777, 2014.
 
